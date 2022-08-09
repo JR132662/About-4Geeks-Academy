@@ -1,0 +1,23 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Jonathan
+    last_name: Rodriguez
+    motto: Coder and Notary
+    
+
+    languages:
+      - idiom: Spanish
+ 
+
+      - idiom: English
+ 
+
+    interests:
+      - item: Space exploration
+      - item: Everyday Physics
+      - item: Blockchain
+
